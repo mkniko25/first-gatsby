@@ -7,6 +7,8 @@ export default function About() {
       <Header headerText="About Gatsby" />
       <h1>About</h1>
       <p>Such wow. Very React.</p>
+      <p>Such wow. Very React.</p>
+      <p>Such wow. Very React.</p>
     </div>
   )
 }
